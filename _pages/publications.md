@@ -8,9 +8,9 @@ author_profile: true
 ---
 *: Equal contribution, ✉: Corresponding author
 
-[**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**](https://arxiv.org/abs/2501.09302)   
+[**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**](https://arxiv.org/abs/2501.09302)    
 Shi Qiu<sup>✉</sup>, **Binzhu Xie**, Qixuan Liu, Pheng-Ann Heng   
-The IEEE Virtual Reality (IEEE VR) , 2025
+The IEEE Virtual Reality (IEEE VR) **(Poster)**, 2025
 
 [**Advancing Extended Reality with 3D Gaussian Splatting: Innovations and Prospects**](https://arxiv.org/abs/2412.06257)   
 Shi Qiu<sup>✉</sup>, **Binzhu Xie**, Qixuan Liu, Pheng-Ann Heng   
