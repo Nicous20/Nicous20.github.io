@@ -14,10 +14,6 @@ His current research focuses on visual multimodally understanding, 3D vision (hi
 
 **He is looking for a Ph.D. position in 25 Fall!**
 
-```diff
-+ I will attend IEEE VR in Saint-Malo, Franch from 8 - 12, March! 
-+ Fell free to chat with me in Booth 1035 in Monday (8, March) or email me!
-```
 
 News
 ======
@@ -34,5 +30,6 @@ News
 
 Professional Services
 =====
+Conference Reviewer: ACM MM (2025)
 Conference Reviewer: ACL ARR (2025)
 
