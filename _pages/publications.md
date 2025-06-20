@@ -8,6 +8,14 @@ author_profile: true
 ---
 *: Equal contribution, ✉: Corresponding author
 
+[**EchoTraffic: Enhancing traffic anomaly understanding with audio-visual insights**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf)    
+Zhenghao Xing<sup>*</sup>, Hao Chen<sup>*</sup>, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+Accepted by Computer Vision and Pattern Recognition (CVPR), 2025.
+
+[**Egolife: Towards egocentric life assistant**](https://egolife-ai.github.io/)    
+EgoLife Team    
+Accepted by Computer Vision and Pattern Recognition (CVPR), 2025.
+
 [**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**](https://arxiv.org/abs/2501.09302)    
 Shi Qiu<sup>✉</sup>, **Binzhu Xie**, Qixuan Liu, Pheng-Ann Heng   
 The IEEE Virtual Reality (IEEE VR) **(Poster)**, 2025
