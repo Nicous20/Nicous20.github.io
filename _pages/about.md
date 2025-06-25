@@ -12,11 +12,12 @@ Binzhu Xie is a Research Assistant at the [Department of Computer Science and En
 
 His current research focuses on visual multimodally understanding, 3D vision (highly related to XR and HCI), etc. 
 
-**He is looking for a Ph.D. position in 25 Fall!**
+**He is looking for a Ph.D. position in 25/26 Spring/Fall!**
 
 
 News
 ======
+[25.06] One paper were accept to ICCV 2025.
 [25.03] Two papers were accept to CVPR 2025.  
 [25.01] [One work](https://arxiv.org/abs/2501.09302) was accpeted as IEEE VR 2025 Posters.  
 [24.11] [One paper](https://arxiv.org/abs/2412.06257) was accepted in IEEE [AIxVR](https://aixvr.tecnico.ulisboa.pt/) 2025.  
@@ -30,6 +31,6 @@ News
 
 Professional Services
 =====
-Conference Reviewer: ACM MM (2025)
+Conference Reviewer: ACM MM (2025)   
 Conference Reviewer: ACL ARR (2025)
 
