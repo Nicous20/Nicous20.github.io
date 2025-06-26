@@ -17,7 +17,7 @@ His current research focuses on visual multimodally understanding, 3D vision (hi
 
 News
 ======
-[25.06] One paper were accept to ICCV 2025.   
+[25.06] One paper was accept to ICCV 2025.   
 [25.03] Two papers were accept to CVPR 2025.  
 [25.01] [One work](https://arxiv.org/abs/2501.09302) was accpeted as IEEE VR 2025 Posters.  
 [24.11] [One paper](https://arxiv.org/abs/2412.06257) was accepted in IEEE [AIxVR](https://aixvr.tecnico.ulisboa.pt/) 2025.  
