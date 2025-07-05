@@ -17,17 +17,17 @@ His current research focuses on visual multimodally understanding, 3D vision (hi
 
 News
 ======
-[25.06] One paper was accept to ICCV 2025.   
-[25.03] Two papers were accept to CVPR 2025.  
-[25.01] [One work](https://arxiv.org/abs/2501.09302) was accpeted as IEEE VR 2025 Posters.  
-[24.11] [One paper](https://arxiv.org/abs/2412.06257) was accepted in IEEE [AIxVR](https://aixvr.tecnico.ulisboa.pt/) 2025.  
-[24.08] Joined CUHK CSE as a junior RA.  
-[24.07] [FunQA](https://funqa-benchmark.github.io/) was accepted to ECCV 2024.  
+[25.07] One paper accepted to ACM MM 2025.  
+[25.06] One paper accepted to ICCV 2025.    
+[25.03] Two papers accepted to CVPR 2025.  
+[25.01] [One work](https://arxiv.org/abs/2501.09302) accepted as IEEE VR 2025 Posters.  
+[24.11] [One paper](https://arxiv.org/abs/2412.06257) accepted in IEEE [AIxVR](https://aixvr.tecnico.ulisboa.pt/) 2025.  
+[24.08] Joined CUHK CSE as a junior RA!  
+[24.07] [FunQA](https://funqa-benchmark.github.io/) accepted to ECCV 2024.  
 [24.06] Successfully graduated from BUPT and QMUL.  
-[24.02] [CUVA](https://github.com/fesvhtr/CUVA) was accepted to CVPR 2024.  
-[23.12] [DocMSU](https://github.com/fesvhtr/DocMSU) was accepted to AAAI 2024.  
+[24.02] [CUVA](https://github.com/fesvhtr/CUVA) accepted to CVPR 2024.  
+[23.12] [DocMSU](https://github.com/fesvhtr/DocMSU) accepted to AAAI 2024.  
 [23.07] We released [FunQA Benchmark](https://funqa-benchmark.github.io/) and organized a [competition](https://iacc.pazhoulab-huangpu.com/contestdetail?id=64af50154a0ed647faca623a&award=1,000,000) with 1 million ¥.  
-[23.07] One paper was accepted to PRCV 2023.  
 
 Professional Services
 =====
