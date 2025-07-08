@@ -8,13 +8,21 @@ author_profile: true
 ---
 *: Equal contribution, ✉: Corresponding author
 
+[**Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality.**]()  
+Yuyang Jiang, **Binzhu Xie**, Lina Xu, Xiaokang Lei, Shi Qiu, Luwen Yu<sup>✉</sup>, Pan Hui.  
+ACM Multimedia (ACM MM), 2025 
+
+[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
+Sicheng Zhang*, **Binzhu Xie***, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu. 
+International Conference on Computer Vision (ICCV), 2025.
+
 [**EchoTraffic: Enhancing traffic anomaly understanding with audio-visual insights**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf)    
-Zhenghao Xing<sup>*</sup>, Hao Chen<sup>*</sup>, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
-Accepted by Computer Vision and Pattern Recognition (CVPR), 2025.
+Zhenghao Xing*, Hao Chen*, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+Computer Vision and Pattern Recognition (CVPR), 2025.
 
 [**Egolife: Towards egocentric life assistant**](https://egolife-ai.github.io/)    
 EgoLife Team    
-Accepted by Computer Vision and Pattern Recognition (CVPR), 2025.
+Computer Vision and Pattern Recognition (CVPR), 2025.
 
 [**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**](https://arxiv.org/abs/2501.09302)    
 Shi Qiu<sup>✉</sup>, **Binzhu Xie**, Qixuan Liu, Pheng-Ann Heng   
