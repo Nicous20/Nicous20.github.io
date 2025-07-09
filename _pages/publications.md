@@ -9,7 +9,7 @@ author_profile: true
 *: Equal contribution, ✉: Corresponding author
 
 [**Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality.**]()  
-Yuyang Jiang, **Binzhu Xie**, Lina Xu, Xiaokang Lei, Shi Qiu, Luwen Yu<sup>✉</sup>, Pan Hui.  
+<span style="font-size: small;">Yuyang Jiang, **Binzhu Xie**, Lina Xu, Xiaokang Lei, Shi Qiu, Luwen Yu<sup>✉</sup>, Pan Hui.  
 ACM Multimedia (ACM MM), 2025 
 
 [**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
