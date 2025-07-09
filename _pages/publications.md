@@ -13,7 +13,7 @@ Yuyang Jiang, **Binzhu Xie**, Lina Xu, Xiaokang Lei, Shi Qiu, Luwen Yu<sup>✉</
 ACM Multimedia (ACM MM), 2025 
 
 [**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
-Sicheng Zhang*, **Binzhu Xie***, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu. 
+Sicheng Zhang<sup>*</sup>, **Binzhu Xie<sup>*</sup>**, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu. 
 International Conference on Computer Vision (ICCV), 2025.
 
 [**EchoTraffic: Enhancing traffic anomaly understanding with audio-visual insights**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf)    
