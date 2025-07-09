@@ -17,7 +17,7 @@ ACM Multimedia (ACM MM), 2025
 International Conference on Computer Vision (ICCV), 2025.
 
 [**EchoTraffic: Enhancing traffic anomaly understanding with audio-visual insights**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf)    
-<span style="font-size: small;">Zhenghao Xing, Hao Chen, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+<span style="font-size: small;">Zhenghao Xing*, Hao Chen*, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
 Computer Vision and Pattern Recognition (CVPR), 2025.
 
 [**Egolife: Towards egocentric life assistant**](https://egolife-ai.github.io/)    
