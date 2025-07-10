@@ -13,15 +13,15 @@ author_profile: true
 ACM Multimedia (ACM MM), 2025 
 
 [**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
-<span style="font-size: small;">Sicheng Zhang<sup>*</sup>, **Binzhu Xie<sup>*</sup>**, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu. 
+<span style="font-size: small;">Sicheng Zhang<sup>*</sup>, **Binzhu Xie<sup>*</sup>**, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu.   
 International Conference on Computer Vision (ICCV), 2025.
 
 [**EchoTraffic: Enhancing traffic anomaly understanding with audio-visual insights**](https://openaccess.thecvf.com/content/CVPR2025/papers/Xing_EchoTraffic_Enhancing_Traffic_Anomaly_Understanding_with_Audio-Visual_Insights_CVPR_2025_paper.pdf)    
-<span style="font-size: small;">Zhenghao Xing<sup>*</sup>, Hao Chen<sup>*</sup>, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng
+<span style="font-size: small;">Zhenghao Xing<sup>*</sup>, Hao Chen<sup>*</sup>, **Binzhu Xie**, Jiaqi Xu, Ziyu Guo, Xuemiao Xu, Jianye Hao, Chi-Wing Fu, Xiaowei Hu, Pheng-Ann Heng   
 Computer Vision and Pattern Recognition (CVPR), 2025.
 
 [**Egolife: Towards egocentric life assistant**](https://egolife-ai.github.io/)    
-<span style="font-size: small;">EgoLife Team    
+<span style="font-size: small;">EgoLife Team      
 Computer Vision and Pattern Recognition (CVPR), 2025.
 
 [**Creating Virtual Environments with 3D Gaussian Splatting: A Comparative Study**](https://arxiv.org/abs/2501.09302)    
