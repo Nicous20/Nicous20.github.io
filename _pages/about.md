@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Binzhu Xie (谢滨竹） is an incoming PhD student at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by [Prof. Qiu Shi](https://shiqiu0419.github.io/) at the CUHK’s Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/). Previously, Binzhu Xie obtained his bachelor degree (2020-2024) from [QMUL](https://www.qmul.ac.uk/) and [BUPT](https://www.bupt.edu.cn/), advised by [Prof. Guoshun Nan](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). Since 2023, He has been fortunate to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Dr. Jingkang Yang](https://jingkang50.github.io/) under the supervision of [Prof. Ziwei Liu](https://liuziwei7.github.io/).
+Binzhu Xie (谢滨竹) is an incoming PhD student at the [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong (CUHK)](https://www.cuhk.edu.hk/chinese/index.html), advised by [Prof. Qiu Shi](https://shiqiu0419.github.io/) at the CUHK’s Institute of Medical Intelligence and XR, led by [Prof. Pheng Ann Heng](https://www.cse.cuhk.edu.hk/~pheng/). Previously, Binzhu Xie obtained his bachelor degree (2020-2024) from [QMUL](https://www.qmul.ac.uk/) and [BUPT](https://www.bupt.edu.cn/), advised by [Prof. Guoshun Nan](https://scholar.google.com/citations?user=uSykWkMAAAAJ&hl=en). Since 2023, He has been fortunate to collaborate with [MMLab@NTU](https://www.mmlab-ntu.com/index.html), working closely with [Dr. Jingkang Yang](https://jingkang50.github.io/) under the supervision of [Prof. Ziwei Liu](https://liuziwei7.github.io/).
 
 His current research focuses on 3D vision (highly related to XR and HCI), visual multimodally understanding, AIGC related topic, etc. 
 
@@ -29,7 +29,7 @@ News
 
 Professional Services
 =====
-Conference Reviewer: AAAI (2026).
-Conference Reviewer: ACM MM (2025).
+Conference Reviewer: AAAI (2026).  
+Conference Reviewer: ACM MM (2025).  
 Conference Reviewer: ACL ARR (2025).
 
