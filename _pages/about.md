@@ -15,7 +15,7 @@ His current research focuses on 3D vision (highly related to XR and HCI), visual
 
 News
 ======
-[25.07] One paper accepted to ACM MM 2025.  
+[25.07] [One paper](https://arxiv.org/abs/2510.11830) accepted to ACM MM 2025.  
 [25.06] [TRIG](https://www.arxiv.org/abs/2507.22100) accepted to ICCV 2025.    
 [25.03] Two papers accepted to CVPR 2025.  
 [25.01] [One work](https://arxiv.org/abs/2501.09302) accepted as IEEE VR 2025 Posters.  
@@ -29,7 +29,8 @@ News
 
 Professional Services
 =====
+Conference Reviewer: ICLR (2026)
 Conference Reviewer: AAAI (2026).  
 Conference Reviewer: ACM MM (2025).  
-Conference Reviewer: ACL ARR (2025).
+Conference Reviewer: ACL ARR (2025, 2026).
 
