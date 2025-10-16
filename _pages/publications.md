@@ -8,11 +8,11 @@ author_profile: true
 ---
 *: Equal contribution, ✉: Corresponding author
 
-[**Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality.**]()  
+[**Generative Multi-Sensory Meditation: Exploring Immersive Depth and Activation in Virtual Reality.**](https://arxiv.org/abs/2510.11830)  
 <span style="font-size: small;">Yuyang Jiang, **Binzhu Xie**, Lina Xu, Xiaokang Lei, Shi Qiu, Luwen Yu<sup>✉</sup>, Pan Hui.  
 ACM Multimedia (ACM MM), 2025 
 
-[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**]()  
+[**Trade-offs in Image Generation: How Do Different Dimensions Interact?**](https://www.arxiv.org/abs/2507.22100)  
 <span style="font-size: small;">Sicheng Zhang<sup>*</sup>, **Binzhu Xie<sup>*</sup>**, Zhonghao Yan<sup>*</sup>, Yuli Zhang, Donghao Zhou, Xiaofei Chen, Shi Qiu<sup>✉</sup>, Jiaqi Liu, Guoyang Xie<sup>✉</sup>, Zhichao Lu.   
 International Conference on Computer Vision (ICCV), 2025.
 
