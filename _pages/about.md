@@ -12,10 +12,6 @@ Binzhu Xie (谢滨竹) is an incoming PhD student at the [Department of Computer
 
 His current research focuses on 3D vision (highly related to XR and HCI), visual multimodally understanding, AIGC related topic, etc. 
 
-```diff
-+ I will attend the ACM MM 25 in Dublin on 27-30 October, feel free to have a chill chat with me :)
-```
-
 
 News
 ======
@@ -33,7 +29,7 @@ News
 
 Professional Services
 =====
-Conference Reviewer: ICLR (2026)
+Conference Reviewer: ICLR (2026).  
 Conference Reviewer: AAAI (2026).  
 Conference Reviewer: ACM MM (2025).  
 Conference Reviewer: ACL ARR (2025, 2026).
